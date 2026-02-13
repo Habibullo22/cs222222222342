@@ -14,7 +14,7 @@ ADMIN_ID = 5815294733
 
 PAYMENT_REKV = {
     "visa": "💳 VISA/UZCARD" "hozir bu kartalar ishlamayapti Humo tugmasin bosing !",
-    "humo": "🟦 HUMO rekvizit:\n9860 6067 5024 7151\nIsm: H.\nBank: Humo",
+    "humo": "🟦 HUMO rekvizit:\n\nIsm: \nBank: Humo",
     "crypto": "hozir bu kartalar ishlamayapti Humo tugmasin bosing !",
 }
 
