@@ -9,11 +9,11 @@ from telebot import TeleBot, types
 # =======================
 # CONFIG
 # =======================
-TOKEN = "BOT_TOKEN"
+TOKEN = "8061624031:AAG5LQ1tHO4V8hkh8egQDdZfgW2zy3X5jAo"
 ADMIN_ID = 5815294733
 
 PAYMENT_REKV = {
-    "visa": "💳 VISA/UZCARD rekvizit:\n9860 XXXX XXXX XXXX XXXX\nIsm: ...\nBank: ...",
+    "visa": "💳 VISA/UZCARD rekvizit:\n9860 6067 5024 7151\nIsm: H..\nBank: Humo",
     "humo": "🟦 HUMO rekvizit:\n9860 XXXX XXXX XXXX XXXX\nIsm: ...\nBank: ...",
     "crypto": "₿ CRYPTO:\nUSDT (TRC20): Txxxx...\nBTC: 1xxx..."
 }
